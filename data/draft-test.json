@@ -1,47 +1,12 @@
 {
   "picks": [
     {
-      "id": "01J96TG4STMJBF445AWK3JH13M",
+      "id": "01J96V41Z0W0C86K7JE1VJWXTA",
       "pickNumber": 1,
       "actualPickNumber": 1,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:32:55.460Z",
-      "pickedAt": "2025-01-19T21:32:55.460Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4ENPAV7TH96GTZFNQQ",
-        "name": "Skyhook West",
-        "x": "25",
-        "y": "25",
-        "inGameDropId": 2
-      },
-      "player": {
-        "id": "01J6HCTPAB15S5ANZ6EW4W0MX0",
-        "name": "Don",
-        "frontImage": "https://content.algstools.com/algs-resizer/UNi8dZj12j9PtYMR0lAY.png"
-      },
-      "team": {
-        "id": "01J65B647VTAK8RPX7HBFP6TQW",
-        "name": "ShopifyRebellion",
-        "logoDark": "https://content.algstools.com/algs-resizer/01JHTFGQ6FX7S0VPMK6MEPFNDJ.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01JHTFFQ1RZ9CBZKV18ZVK818W.png",
-        "teamVersionId": "01J94V3YJYKT7E2EPFKK2J98QT",
-        "shortName": "SR",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SV0JGQZ47N4MA3QQJ7",
-      "pickNumber": 2,
-      "actualPickNumber": 2,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:32:57.962Z",
-      "pickedAt": "2025-01-19T21:32:57.962Z",
+      "pickByTime": "2025-01-29T22:52:06.097Z",
+      "pickedAt": "2025-01-29T22:52:06.097Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -71,12 +36,12 @@
       }
     },
     {
-      "id": "01J96TG4SVZNCVQMZZXD35P0ZD",
-      "pickNumber": 3,
-      "actualPickNumber": 3,
+      "id": "01J96V41Z0YWJ1C2A6V74YJGXM",
+      "pickNumber": 2,
+      "actualPickNumber": 2,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:00.463Z",
-      "pickedAt": "2025-01-19T21:33:00.463Z",
+      "pickByTime": "2025-01-29T22:52:09.112Z",
+      "pickedAt": "2025-01-29T22:52:09.112Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
@@ -84,11 +49,81 @@
         "inGameName": "mp_rr_desertlands_hu"
       },
       "spawnLocation": {
-        "id": "01JH19435NK3000CEEZP6KHJ34",
-        "name": "Climatizer",
-        "x": "73",
-        "y": "17",
-        "inGameDropId": 21
+        "id": "01J650EJ4ENPAV7TH96GTZFNQQ",
+        "name": "Skyhook West",
+        "x": "25",
+        "y": "25",
+        "inGameDropId": 2
+      },
+      "player": {
+        "id": "01J65B6AQJFP5FPMYHH3MMT39M",
+        "name": "Hakis",
+        "frontImage": "https://content.algstools.com/algs-resizer/K3OM9JFxrWWoPzbO1Wwh.png"
+      },
+      "team": {
+        "id": "01J65B68PTHEARN8SM4T62C0SF",
+        "name": "Alliance",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C3WBBAH1JN1KP90271C5CS.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C3WBBAH1JN1KP90271C5CS.png",
+        "teamVersionId": "01J94V460K68VRFHC2GT4CENE7",
+        "shortName": "ALL",
+        "region": "europe-middle-east-and-africa"
+      }
+    },
+    {
+      "id": "01J96V41Z0K7WDCPT1RX9WMS9X",
+      "pickNumber": 3,
+      "actualPickNumber": 3,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:52:12.121Z",
+      "pickedAt": "2025-01-29T22:52:12.121Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
+      },
+      "spawnLocation": {
+        "id": "01JH1E8FCNYS3HXPMDVFGZMQ46",
+        "name": "The Lotus",
+        "x": "44",
+        "y": "16",
+        "inGameDropId": 2
+      },
+      "player": {
+        "id": "01J65B6SBZWBJD30CTMFTGC1M1",
+        "name": "obly",
+        "frontImage": "https://content.algstools.com/algs-resizer/ahhlLTi0CrNrkDrBF4q2.png"
+      },
+      "team": {
+        "id": "01J65B6RJ8W5GQ9S8QB8KNPB4V",
+        "name": "CRAZY RACCOON",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J80N0S698GNXANEXEFW2V1JV.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J80N0S698GNXANEXEFW2V1JV.png",
+        "teamVersionId": "01J80KXVM201111CQBMZC908MA",
+        "shortName": "CR",
+        "region": "asia-pacific-north"
+      }
+    },
+    {
+      "id": "01J96V41Z0AFHQNTHA74PZ7CY3",
+      "pickNumber": 4,
+      "actualPickNumber": 4,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:52:15.125Z",
+      "pickedAt": "2025-01-29T22:52:15.125Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4FMPD76N8P89F8MZ12",
+        "name": "Lightning Rod",
+        "x": "81",
+        "y": "23",
+        "inGameDropId": 14
       },
       "player": {
         "id": "01J65B7YX133EJCY2WKCWG472F",
@@ -106,99 +141,29 @@
       }
     },
     {
-      "id": "01J96TG4SVYWD848258AHGA28F",
-      "pickNumber": 4,
-      "actualPickNumber": 4,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:02.965Z",
-      "pickedAt": "2025-01-19T21:33:02.965Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4FMPD76N8P89F8MZ12",
-        "name": "Lightning Rod",
-        "x": "81",
-        "y": "23",
-        "inGameDropId": 14
-      },
-      "player": {
-        "id": "01J6HCTQBMSJWM403NFDWDFV96",
-        "name": "Talmadge",
-        "frontImage": "https://content.algstools.com/algs-resizer/ktCU08VQPg99TEU9Ivmd.png"
-      },
-      "team": {
-        "id": "01J65B7M110SY7EMAVH3Q4SSSD",
-        "name": "TSM",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C6ZWC08YHWQRR34X448J53.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C6YAM65EVP2334RXA3JVMH.png",
-        "teamVersionId": "01J94V45CWEAH1NGF4MT87FPA5",
-        "shortName": "TSM",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SVM28VAWMG6ZP91N4V",
+      "id": "01J96V41Z0XPNA1H0XCM95MN4V",
       "pickNumber": 5,
       "actualPickNumber": 5,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:05.466Z",
-      "pickedAt": "2025-01-19T21:33:05.466Z",
+      "pickByTime": "2025-01-29T22:52:18.137Z",
+      "pickedAt": "2025-01-29T22:52:18.137Z",
       "isActivePick": false,
       "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
       },
       "spawnLocation": {
-        "id": "01J650EJ4FET8YVQA35318X368",
-        "name": "Ceto Station",
-        "x": "38",
-        "y": "50",
-        "inGameDropId": 9
+        "id": "01JH19435NK3000CEEZP6KHJ34",
+        "name": "Climatizer",
+        "x": "73",
+        "y": "17",
+        "inGameDropId": 21
       },
       "player": {
-        "id": "01J6HA20NHY79W5VYJ2NZ97D82",
-        "name": "coldjyn",
-        "frontImage": null
-      },
-      "team": {
-        "id": "01J65B6X031C072DB8X3H4TW2P",
-        "name": "Cloud9",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C5ECFD7ZMD4FA70GKHR4YG.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C5ECFD7ZMD4FA70GKHR4YG.png",
-        "teamVersionId": "01J94V434YW62N0N8AFDM682YF",
-        "shortName": "C9",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SVTM7V5J2QTQFQ1JNR",
-      "pickNumber": 6,
-      "actualPickNumber": 6,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:07.967Z",
-      "pickedAt": "2025-01-19T21:33:07.967Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4FFA7AZ6AM8AY318HG",
-        "name": "Echo HQ",
-        "x": "66",
-        "y": "83",
-        "inGameDropId": 19
-      },
-      "player": {
-        "id": "01J65B79J9D3V006MVBGN77X0Y",
-        "name": "Sweet",
-        "frontImage": "https://content.algstools.com/algs-resizer/WPSsanoefZLarGKZRnKW.png"
+        "id": "01J6HCTHKARG7HCV92YJ3M7D86",
+        "name": "ANDROID",
+        "frontImage": "https://content.algstools.com/algs-resizer/E7sPpNDZkhgS7ZZHilMo.png"
       },
       "team": {
         "id": "01J65B78RPPV8ZG21F46KQAD13",
@@ -211,12 +176,82 @@
       }
     },
     {
-      "id": "01J96TG4SV95H1M08XW9BTKRAH",
+      "id": "01J96V41Z00GP34Q8PY2KE35HC",
+      "pickNumber": 6,
+      "actualPickNumber": 6,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:52:21.152Z",
+      "pickedAt": "2025-01-29T22:52:21.152Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4EED7W4SY0E3KX7JG7",
+        "name": "Thermal Station",
+        "x": "24",
+        "y": "75",
+        "inGameDropId": 8
+      },
+      "player": {
+        "id": "01J69SX1YQTDN4Q8SZ50KF3BZH",
+        "name": "Dropped",
+        "frontImage": "https://content.algstools.com/algs-resizer/RtistQFBTQxPSxHqu3Is.png"
+      },
+      "team": {
+        "id": "01J69RY9XJ0XP4ESCNHNV1F75G",
+        "name": "Envy",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JHTDRM3ECFHXTBFY183KM0M2.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JHTDRM3ECFHXTBFY183KM0M2.png",
+        "teamVersionId": "01J94V42HP6T61TVEVZBAMX56D",
+        "shortName": "ENVY",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z055XSX8QQ3Y9W2K27",
       "pickNumber": 7,
       "actualPickNumber": 7,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:10.468Z",
-      "pickedAt": "2025-01-19T21:33:10.468Z",
+      "pickByTime": "2025-01-29T22:52:24.162Z",
+      "pickedAt": "2025-01-29T22:52:24.162Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
+      },
+      "spawnLocation": {
+        "id": "01JH1B9PJ57P5THJ72YFVCXRH5",
+        "name": "Barometer",
+        "x": "36",
+        "y": "73",
+        "inGameDropId": 8
+      },
+      "player": {
+        "id": "01JH3WYF858J7XNMGWY10WYRVH",
+        "name": "stressado",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J65B6M350DZ2KK38EXDXSNAY",
+        "name": "Liquid Alienware",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C47XT8KH7K4970NM19KE6H.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C47XT8KH7K4970NM19KE6H.png",
+        "teamVersionId": "01J94V406EV5NR8V1MAD2SQ6FQ",
+        "shortName": "TLAW",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z0WACSZ79HM71CD197",
+      "pickNumber": 8,
+      "actualPickNumber": 8,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:52:27.167Z",
+      "pickedAt": "2025-01-29T22:52:27.167Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -246,82 +281,12 @@
       }
     },
     {
-      "id": "01J96TG4SVKSTQQE31PW36FJ8H",
-      "pickNumber": 8,
-      "actualPickNumber": 8,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:12.970Z",
-      "pickedAt": "2025-01-19T21:33:12.970Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4EED7W4SY0E3KX7JG7",
-        "name": "Thermal Station",
-        "x": "24",
-        "y": "75",
-        "inGameDropId": 8
-      },
-      "player": {
-        "id": "01J65B7KM7V73BV22NBESZBGZD",
-        "name": "Bronzey",
-        "frontImage": "https://content.algstools.com/algs-resizer/D1t4VeafpNNSU9x2kqi7.png"
-      },
-      "team": {
-        "id": "01J65B7HKE5J6KA49B8BMQVGCV",
-        "name": "100 Thieves",
-        "logoDark": "https://content.algstools.com/algs-resizer/01JE9F26M9SBWWQXBDCVX6N74D.svg",
-        "logoLight": "https://content.algstools.com/algs-resizer/01JE9EZB772MPGNWXD9TXM6C0A.png",
-        "teamVersionId": "01J94V46FC5MWQ1C3Q2J9B3JK7",
-        "shortName": "100T",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SV65N33HY2NJPQ4FCW",
+      "id": "01J96V41Z04FT6Z86TV1QSEX49",
       "pickNumber": 9,
       "actualPickNumber": 9,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:15.471Z",
-      "pickedAt": "2025-01-19T21:33:15.471Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01JH190NZASB8XMP4P4CBXRMS9",
-        "name": "Lava Siphon",
-        "x": "57",
-        "y": "72",
-        "inGameDropId": 11
-      },
-      "player": {
-        "id": "01J69SWTE7J8KZ5RTYGE1ZRR19",
-        "name": "Nocturnal",
-        "frontImage": "https://content.algstools.com/algs-resizer/cs5k7IqH5s8M6NrJGuDB.png"
-      },
-      "team": {
-        "id": "01J69RY6KDZS60DARK1TCQB1KM",
-        "name": "NRG",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C3MCRKA19CPZX22Z2H84M0.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C3JCZEZ131S2TY6N9YVV2H.png",
-        "teamVersionId": "01J94V3Y3W9GKJYPS38NCTH82Q",
-        "shortName": "NRG",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SVV54BH0ZQ0PQXK9NW",
-      "pickNumber": 10,
-      "actualPickNumber": 10,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:17.973Z",
-      "pickedAt": "2025-01-19T21:33:17.973Z",
+      "pickByTime": "2025-01-29T22:52:30.181Z",
+      "pickedAt": "2025-01-29T22:52:30.181Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -351,12 +316,82 @@
       }
     },
     {
-      "id": "01J96TG4SVAZ48WNDYP2BP8R1G",
+      "id": "01J96V41Z1796DVGFS4THAYBHN",
+      "pickNumber": 10,
+      "actualPickNumber": 10,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:52:33.197Z",
+      "pickedAt": "2025-01-29T22:52:33.197Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4FET8YVQA35318X368",
+        "name": "Ceto Station",
+        "x": "38",
+        "y": "50",
+        "inGameDropId": 9
+      },
+      "player": {
+        "id": "01JH40FD1TDPQJS328AC4FW8TG",
+        "name": "Ends",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J69RXX269YYBYZN90NN79XX9",
+        "name": "DreamFire",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C264Z3AZH5NNESCEG0KDAD.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C264Z3AZH5NNESCEG0KDAD.png",
+        "teamVersionId": "01J94V3VSNGV08AFQRZ3A6R252",
+        "shortName": "DF",
+        "region": "asia-pacific-south"
+      }
+    },
+    {
+      "id": "01J96V41Z1CX42E8418MW055HX",
       "pickNumber": 11,
       "actualPickNumber": 11,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:20.474Z",
-      "pickedAt": "2025-01-19T21:33:20.474Z",
+      "pickByTime": "2025-01-29T22:52:36.204Z",
+      "pickedAt": "2025-01-29T22:52:36.204Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4FWKV4FXAR3MXXPCQ1",
+        "name": "Downed Beast",
+        "x": "16",
+        "y": "29",
+        "inGameDropId": 4
+      },
+      "player": {
+        "id": "01J6HCTDWKCF3VW1B2WVVPQVPQ",
+        "name": "Jxmo",
+        "frontImage": "https://content.algstools.com/algs-resizer/3ygLlkMdk1TCYDy1RDmy.png"
+      },
+      "team": {
+        "id": "01J65B6B4BX985CZ75J0BPVJSF",
+        "name": "FURIA",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C4PF1A1PK5GG833FKWQ0WD.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C4MMK7TE02ZA38HY3VDQN2.png",
+        "teamVersionId": "01J94V41X351S492KQDQDY8BAA",
+        "shortName": "FUR",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z1GVTGD07SX7YM2013",
+      "pickNumber": 12,
+      "actualPickNumber": 12,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:52:39.220Z",
+      "pickedAt": "2025-01-29T22:52:39.220Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -386,12 +421,12 @@
       }
     },
     {
-      "id": "01J96TG4SV7VHNX8HQXF6C74K7",
-      "pickNumber": 12,
-      "actualPickNumber": 12,
+      "id": "01J96V41Z1KPMGCGYJ5YR93T96",
+      "pickNumber": 13,
+      "actualPickNumber": 13,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:22.976Z",
-      "pickedAt": "2025-01-19T21:33:22.976Z",
+      "pickByTime": "2025-01-29T22:52:42.225Z",
+      "pickedAt": "2025-01-29T22:52:42.225Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -406,97 +441,27 @@
         "inGameDropId": 21
       },
       "player": {
-        "id": "01J69SX0YX2GZWY4XS0MF0CK97",
-        "name": "KSWINNIIE",
-        "frontImage": "https://content.algstools.com/algs-resizer/XYPO97NywhFfVbyjc1ek.png"
-      },
-      "team": {
-        "id": "01J69RY8K5XQYTVVBF6VZZZSX9",
-        "name": "Exo Clan",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C5FSSHQP706092V6A2HP2E.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C5FSSHQP706092V6A2HP2E.png",
-        "teamVersionId": "01J94V43QV8SPE3FMPWZJT7F15",
-        "shortName": "EXO",
-        "region": "europe-middle-east-and-africa"
-      }
-    },
-    {
-      "id": "01J96TG4SVD0TPFDRY8980TR46",
-      "pickNumber": 13,
-      "actualPickNumber": 13,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:25.477Z",
-      "pickedAt": "2025-01-19T21:33:25.477Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
-      },
-      "spawnLocation": {
-        "id": "01JH1ES8XJ24PY3H54X956922N",
-        "name": "Energy Bank",
-        "x": "53",
-        "y": "42",
-        "inGameDropId": 12
-      },
-      "player": {
-        "id": "01J65B6102KYWXKACST98VQWN8",
-        "name": "Gnaske",
-        "frontImage": "https://content.algstools.com/algs-resizer/c2i0SQydpLixTFtbjxMx.png"
-      },
-      "team": {
-        "id": "01J65B5ZBN1VFY0YK7PDYPNY0W",
-        "name": "NIP",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J80MXFDK09JJV4DHSTZ10Y68.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J80MWDC03ADFP2WM1KH1Q5SY.png",
-        "teamVersionId": "01J80KXXB8XY18HV28SYT36D1G",
-        "shortName": "NIP",
-        "region": "europe-middle-east-and-africa"
-      }
-    },
-    {
-      "id": "01J96TG4SVWKQJJ2Z5HYBK3XT1",
-      "pickNumber": 14,
-      "actualPickNumber": 14,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:27.979Z",
-      "pickedAt": "2025-01-19T21:33:27.979Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
-      },
-      "spawnLocation": {
-        "id": "01JH1B9PJ57P5THJ72YFVCXRH5",
-        "name": "Barometer",
-        "x": "36",
-        "y": "73",
-        "inGameDropId": 8
-      },
-      "player": {
-        "id": "01JH40FJ89CJJZX993BFWWJ5QR",
-        "name": "tur0gh-",
-        "frontImage": null
+        "id": "01J65B87RQ9B7N8GVNGNJDVCN2",
+        "name": "MaTaFe",
+        "frontImage": "https://content.algstools.com/algs-resizer/0FpeW9GYUbrclEkzUOts.png"
       },
       "team": {
         "id": "01J65B86Z27N1JEFETBAYM4ZBA",
         "name": "OrglessAndHungry",
-        "logoDark": null,
-        "logoLight": null,
+        "logoDark": "https://content.algstools.com/algs-resizer/01JJJHJZNBTCX7SXYT3E962MTK.jpg",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JJJHJZNBTCX7SXYT3E962MTK.jpg",
         "teamVersionId": "01J94V3XMY1FDPHR4DQNEVARFT",
         "shortName": "OAH",
         "region": "europe-middle-east-and-africa"
       }
     },
     {
-      "id": "01J96TG4SV07JMBMD5Q1NMS4KQ",
-      "pickNumber": 15,
-      "actualPickNumber": 15,
+      "id": "01J96V41Z10NZW6QARB19H359S",
+      "pickNumber": 14,
+      "actualPickNumber": 14,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:30.481Z",
-      "pickedAt": "2025-01-19T21:33:30.481Z",
+      "pickByTime": "2025-01-29T22:52:45.237Z",
+      "pickedAt": "2025-01-29T22:52:45.237Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -504,11 +469,46 @@
         "inGameName": "mp_rr_tropic_island_mu2"
       },
       "spawnLocation": {
-        "id": "01J650EJ4FWKV4FXAR3MXXPCQ1",
-        "name": "Downed Beast",
-        "x": "16",
-        "y": "29",
-        "inGameDropId": 4
+        "id": "01J650EJ4FFA7AZ6AM8AY318HG",
+        "name": "Echo HQ",
+        "x": "66",
+        "y": "83",
+        "inGameDropId": 19
+      },
+      "player": {
+        "id": "01J6HCT9K5YP8ZM1E30C3DS1RN",
+        "name": "aWesomeGuy",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J69RXJWPWDY4VKBE5X398VCG",
+        "name": "ENTER FORCE.36",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C2WGVY4SWWH2AVXYYV8WCK.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C2WGVY4SWWH2AVXYYV8WCK.png",
+        "teamVersionId": "01J94V3WGP56VJ8TZRYJXEY91A",
+        "shortName": "E36",
+        "region": "asia-pacific-north"
+      }
+    },
+    {
+      "id": "01J96V41Z1XFSEG969XZY2GE72",
+      "pickNumber": 16,
+      "actualPickNumber": 15,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:52:48.250Z",
+      "pickedAt": "2025-01-29T22:52:48.250Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4FJZMANVVH6AEWBQ87",
+        "name": "Launch Pad",
+        "x": "75",
+        "y": "63",
+        "inGameDropId": 17
       },
       "player": {
         "id": "01J65B689R1TD666VV2YTPPRYT",
@@ -526,47 +526,47 @@
       }
     },
     {
-      "id": "01J96TG4SV049342G3YVNMXEBB",
-      "pickNumber": 16,
+      "id": "01J96V41Z141VFB6J7964ZS67E",
+      "pickNumber": 15,
       "actualPickNumber": 16,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:32.982Z",
-      "pickedAt": "2025-01-19T21:33:32.982Z",
+      "pickByTime": "2025-01-29T22:52:51.267Z",
+      "pickedAt": "2025-01-29T22:52:51.267Z",
       "isActivePick": false,
       "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
       },
       "spawnLocation": {
-        "id": "01JH1B75SE07Z20N2KNFJQ1T99",
-        "name": "Checkpoint",
-        "x": "32",
-        "y": "29",
-        "inGameDropId": 1
+        "id": "01JH1ERG0X1KHWD3KE2ZZ2YBWM",
+        "name": "City Hall",
+        "x": "33",
+        "y": "41",
+        "inGameDropId": 5
       },
       "player": {
-        "id": "01J69SV99CF98RHK6FH0YN3WAT",
-        "name": "Jacky1",
-        "frontImage": "https://content.algstools.com/algs-resizer/kpkWJ5G6TbZsUCL4DN0f.png"
+        "id": "01JF0QNE4F1CGD8CEWMCHK0437",
+        "name": "SteveZ",
+        "frontImage": null
       },
       "team": {
-        "id": "01J69RXKX0F0TEAFK43Z508VD9",
-        "name": "shadow3690",
-        "logoDark": "https://content.algstools.com/algs-resizer/01JE9FATBZC1SBJ8SV3AX9RFMC.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01JE9F5Y668RBG8QTWR2J0BNQ5.png",
-        "teamVersionId": "01J94V3SY218BXHZC0QJZY2QBF",
-        "shortName": "SDW",
-        "region": "china"
+        "id": "01J65B6PH1AV4V33W0QJ097AQJ",
+        "name": "GoNext",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JA8AQQ9J07D22V7XMV8ZXR6C.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JA8AP1YAR0AA3KQM93Q3K8BE.png",
+        "teamVersionId": "01J80KY0M40CDTG4NY5M4AQP7A",
+        "shortName": "GN",
+        "region": "europe-middle-east-and-africa"
       }
     },
     {
-      "id": "01J96TG4SVQ8KCBYRGFHJSFGY0",
-      "pickNumber": 18,
+      "id": "01J96V41Z117XXSG718XN87XK9",
+      "pickNumber": 17,
       "actualPickNumber": 17,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:35.483Z",
-      "pickedAt": "2025-01-19T21:33:35.483Z",
+      "pickByTime": "2025-01-29T22:52:54.277Z",
+      "pickedAt": "2025-01-29T22:52:54.277Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
@@ -596,12 +596,12 @@
       }
     },
     {
-      "id": "01J96TG4SVA06D1E5M69V616Q5",
-      "pickNumber": 17,
+      "id": "01J96V41Z1DPT3JG2T0D7333S8",
+      "pickNumber": 18,
       "actualPickNumber": 18,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:37.984Z",
-      "pickedAt": "2025-01-19T21:33:37.984Z",
+      "pickByTime": "2025-01-29T22:52:57.288Z",
+      "pickedAt": "2025-01-29T22:52:57.288Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -609,34 +609,69 @@
         "inGameName": "mp_rr_tropic_island_mu2"
       },
       "spawnLocation": {
-        "id": "01J650EJ4FQM10WA2G33CGW8M8",
-        "name": "The Wall",
-        "x": "55",
-        "y": "15",
-        "inGameDropId": 12
+        "id": "01J650EJ4FVVYB8FG3S1FNA1HH",
+        "name": "Command Center",
+        "x": "69",
+        "y": "33",
+        "inGameDropId": 11
       },
       "player": {
-        "id": "01J65B8A64FEH85GH6QX3T9Z0K",
-        "name": "Sinetic",
-        "frontImage": "https://content.algstools.com/algs-resizer/UIk8Ev92XWf1mizqbsUt.png"
+        "id": "01JH3Y25BWG1PM4Z23B6MJHBR4",
+        "name": "Colo",
+        "frontImage": null
       },
       "team": {
-        "id": "01J65B88ZP0S8F0KT9Y94F42GT",
-        "name": "FaZe Clan",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C41N4HPS926D8ZZDBKHB5J.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C408RX8TY6066QWP5BYGNK.png",
-        "teamVersionId": "01J7SJWAF5WM922N9A501DXKCX",
-        "shortName": "FAZE",
-        "region": "europe-middle-east-and-africa"
+        "id": "01J7TXA86T17SJ2M1Q6REM10ZD",
+        "name": "STALLIONS",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JF5ZG2NJD1VXAW7PXK9QKPH8.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JF5ZG2NJD1VXAW7PXK9QKPH8.png",
+        "teamVersionId": "01J7TXA88CZXXP1J7EKAGPXNMX",
+        "shortName": "STAL",
+        "region": "north-america"
       }
     },
     {
-      "id": "01J96TG4SVFTR5Y6PGKEY3W0CQ",
+      "id": "01J96V41Z15EVEB0ZV0ZHTVGRY",
       "pickNumber": 19,
       "actualPickNumber": 19,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:40.485Z",
-      "pickedAt": "2025-01-19T21:33:40.485Z",
+      "pickByTime": "2025-01-29T22:53:00.299Z",
+      "pickedAt": "2025-01-29T22:53:00.299Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4F4JHGSMR6T095N0H5",
+        "name": "Storm Catcher",
+        "x": "76",
+        "y": "37",
+        "inGameDropId": 16
+      },
+      "player": {
+        "id": "01JH3XXFFHNBN6BWPX464TJ9VX",
+        "name": "hannzi",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J80KMBX8KCWAQ2YATWYQYMRD",
+        "name": "Supernova",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JH0QQW18K9AT8PPZ6702H4A0.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JH0QQ77MQFJGBHVABYVZ1FP4.png",
+        "teamVersionId": "01J80KMBZ0H6XT0410Y64FMK3P",
+        "shortName": "SN",
+        "region": "asia-pacific-south"
+      }
+    },
+    {
+      "id": "01J96V41Z1M8EEGV7FW5EZHJB7",
+      "pickNumber": 20,
+      "actualPickNumber": 20,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:03.311Z",
+      "pickedAt": "2025-01-29T22:53:03.311Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
@@ -644,11 +679,11 @@
         "inGameName": "mp_rr_desertlands_hu"
       },
       "spawnLocation": {
-        "id": "01J650EJ4FEKPX9PJJZZ8M6256",
-        "name": "Overlook",
-        "x": "83",
-        "y": "38",
-        "inGameDropId": 22
+        "id": "01JH190NZASB8XMP4P4CBXRMS9",
+        "name": "Lava Siphon",
+        "x": "57",
+        "y": "72",
+        "inGameDropId": 11
       },
       "player": {
         "id": "01J7SJWG8C44EAY6KMM54MK3D5",
@@ -666,82 +701,12 @@
       }
     },
     {
-      "id": "01J96TG4SVFENTNYXKSDHE6F7C",
-      "pickNumber": 20,
-      "actualPickNumber": 20,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:42.987Z",
-      "pickedAt": "2025-01-19T21:33:42.987Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4E1JX9YZQG0P3DXCBR",
-        "name": "Stacks",
-        "x": "73",
-        "y": "83",
-        "inGameDropId": 14
-      },
-      "player": {
-        "id": "01J7TX1Y5KYV5S902MRQWKP2TD",
-        "name": "Blinkzr",
-        "frontImage": null
-      },
-      "team": {
-        "id": "01J7TXA9PPVZ6ZHPDGFCZH08DB",
-        "name": "Oblivion",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J7TZEKN2M0WPE6FTDD7AGE24.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J7TZCVAGT0P2S6H59BE0K376.png",
-        "teamVersionId": "01J7TXA9RG5SCY3EZ428EQHHQ1",
-        "shortName": "OBVN",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SV6DJRP1JSZMJP71RR",
+      "id": "01J96V41Z1YTVJ0T6YZM1197MJ",
       "pickNumber": 21,
       "actualPickNumber": 21,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:45.489Z",
-      "pickedAt": "2025-01-19T21:33:45.489Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4FJZMANVVH6AEWBQ87",
-        "name": "Launch Pad",
-        "x": "75",
-        "y": "63",
-        "inGameDropId": 17
-      },
-      "player": {
-        "id": "01J6HCTPAB15S5ANZ6EW4W0MX0",
-        "name": "Don",
-        "frontImage": "https://content.algstools.com/algs-resizer/UNi8dZj12j9PtYMR0lAY.png"
-      },
-      "team": {
-        "id": "01J65B647VTAK8RPX7HBFP6TQW",
-        "name": "ShopifyRebellion",
-        "logoDark": "https://content.algstools.com/algs-resizer/01JHTFGQ6FX7S0VPMK6MEPFNDJ.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01JHTFFQ1RZ9CBZKV18ZVK818W.png",
-        "teamVersionId": "01J94V3YJYKT7E2EPFKK2J98QT",
-        "shortName": "SR",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SV1BCJBJEA4H3493CW",
-      "pickNumber": 22,
-      "actualPickNumber": 22,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:47.990Z",
-      "pickedAt": "2025-01-19T21:33:47.990Z",
+      "pickByTime": "2025-01-29T22:53:06.325Z",
+      "pickedAt": "2025-01-29T22:53:06.325Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -771,12 +736,12 @@
       }
     },
     {
-      "id": "01J96TG4SVDS8P88BZBR5AA1NW",
-      "pickNumber": 23,
-      "actualPickNumber": 23,
+      "id": "01J96V41Z1R9T6WFPW1W10TX34",
+      "pickNumber": 22,
+      "actualPickNumber": 22,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:50.493Z",
-      "pickedAt": "2025-01-19T21:33:50.493Z",
+      "pickByTime": "2025-01-29T22:53:09.336Z",
+      "pickedAt": "2025-01-29T22:53:09.336Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -789,6 +754,76 @@
         "x": "67",
         "y": "20",
         "inGameDropId": 3
+      },
+      "player": {
+        "id": "01J65B6AQJFP5FPMYHH3MMT39M",
+        "name": "Hakis",
+        "frontImage": "https://content.algstools.com/algs-resizer/K3OM9JFxrWWoPzbO1Wwh.png"
+      },
+      "team": {
+        "id": "01J65B68PTHEARN8SM4T62C0SF",
+        "name": "Alliance",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C3WBBAH1JN1KP90271C5CS.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C3WBBAH1JN1KP90271C5CS.png",
+        "teamVersionId": "01J94V460K68VRFHC2GT4CENE7",
+        "shortName": "ALL",
+        "region": "europe-middle-east-and-africa"
+      }
+    },
+    {
+      "id": "01J96V41Z1MAHE5NWYZC4KJHPX",
+      "pickNumber": 23,
+      "actualPickNumber": 23,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:12.347Z",
+      "pickedAt": "2025-01-29T22:53:12.347Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4E1JX9YZQG0P3DXCBR",
+        "name": "Stacks",
+        "x": "73",
+        "y": "83",
+        "inGameDropId": 14
+      },
+      "player": {
+        "id": "01J65B6SBZWBJD30CTMFTGC1M1",
+        "name": "obly",
+        "frontImage": "https://content.algstools.com/algs-resizer/ahhlLTi0CrNrkDrBF4q2.png"
+      },
+      "team": {
+        "id": "01J65B6RJ8W5GQ9S8QB8KNPB4V",
+        "name": "CRAZY RACCOON",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J80N0S698GNXANEXEFW2V1JV.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J80N0S698GNXANEXEFW2V1JV.png",
+        "teamVersionId": "01J80KXVM201111CQBMZC908MA",
+        "shortName": "CR",
+        "region": "asia-pacific-north"
+      }
+    },
+    {
+      "id": "01J96V41Z1B23X93H03EMN706D",
+      "pickNumber": 24,
+      "actualPickNumber": 24,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:15.356Z",
+      "pickedAt": "2025-01-29T22:53:15.356Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
+      },
+      "spawnLocation": {
+        "id": "01JH1ES5KK2Z99RGA3AXRYC5G1",
+        "name": "Neon Square",
+        "x": "26",
+        "y": "54",
+        "inGameDropId": 11
       },
       "player": {
         "id": "01J65B7YX133EJCY2WKCWG472F",
@@ -806,47 +841,12 @@
       }
     },
     {
-      "id": "01J96TG4SWYGT7R9KMR52EC8TE",
-      "pickNumber": 24,
-      "actualPickNumber": 24,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:52.994Z",
-      "pickedAt": "2025-01-19T21:33:52.994Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
-      },
-      "spawnLocation": {
-        "id": "01JH1E8FCNYS3HXPMDVFGZMQ46",
-        "name": "The Lotus",
-        "x": "44",
-        "y": "16",
-        "inGameDropId": 2
-      },
-      "player": {
-        "id": "01J6HCTQBMSJWM403NFDWDFV96",
-        "name": "Talmadge",
-        "frontImage": "https://content.algstools.com/algs-resizer/ktCU08VQPg99TEU9Ivmd.png"
-      },
-      "team": {
-        "id": "01J65B7M110SY7EMAVH3Q4SSSD",
-        "name": "TSM",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C6ZWC08YHWQRR34X448J53.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C6YAM65EVP2334RXA3JVMH.png",
-        "teamVersionId": "01J94V45CWEAH1NGF4MT87FPA5",
-        "shortName": "TSM",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SWQXWDS6BSHJA1CRMS",
+      "id": "01J96V41Z1V7SK9V76NB1C9AHN",
       "pickNumber": 25,
       "actualPickNumber": 25,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:55.495Z",
-      "pickedAt": "2025-01-19T21:33:55.495Z",
+      "pickByTime": "2025-01-29T22:53:18.373Z",
+      "pickedAt": "2025-01-29T22:53:18.373Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -854,51 +854,16 @@
         "inGameName": "mp_rr_district"
       },
       "spawnLocation": {
-        "id": "01JH1ES5KK2Z99RGA3AXRYC5G1",
-        "name": "Neon Square",
-        "x": "26",
-        "y": "54",
-        "inGameDropId": 11
+        "id": "01JH1ESSHTXT5P5PG0DKQPZQDP",
+        "name": "Draft Point",
+        "x": "43",
+        "y": "68",
+        "inGameDropId": 17
       },
       "player": {
-        "id": "01J6HA20NHY79W5VYJ2NZ97D82",
-        "name": "coldjyn",
-        "frontImage": null
-      },
-      "team": {
-        "id": "01J65B6X031C072DB8X3H4TW2P",
-        "name": "Cloud9",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C5ECFD7ZMD4FA70GKHR4YG.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C5ECFD7ZMD4FA70GKHR4YG.png",
-        "teamVersionId": "01J94V434YW62N0N8AFDM682YF",
-        "shortName": "C9",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SW51K215HE8E0NHSRV",
-      "pickNumber": 26,
-      "actualPickNumber": 26,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:33:57.996Z",
-      "pickedAt": "2025-01-19T21:33:57.996Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4FVYFWGG4STHJC6WW0",
-        "name": "Monument",
-        "x": "49",
-        "y": "42",
-        "inGameDropId": 18
-      },
-      "player": {
-        "id": "01J65B79J9D3V006MVBGN77X0Y",
-        "name": "Sweet",
-        "frontImage": "https://content.algstools.com/algs-resizer/WPSsanoefZLarGKZRnKW.png"
+        "id": "01J6HCTHKARG7HCV92YJ3M7D86",
+        "name": "ANDROID",
+        "frontImage": "https://content.algstools.com/algs-resizer/E7sPpNDZkhgS7ZZHilMo.png"
       },
       "team": {
         "id": "01J65B78RPPV8ZG21F46KQAD13",
@@ -911,12 +876,82 @@
       }
     },
     {
-      "id": "01J96TG4SW17ANJ7JJJ0Q0B150",
+      "id": "01J96V41Z1JA367NKREGZTAN86",
+      "pickNumber": 26,
+      "actualPickNumber": 26,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:21.378Z",
+      "pickedAt": "2025-01-29T22:53:21.378Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
+      },
+      "spawnLocation": {
+        "id": "01JH1ESFVF30G1A0X9XT89ABT5",
+        "name": "Stadium",
+        "x": "79",
+        "y": "59",
+        "inGameDropId": 14
+      },
+      "player": {
+        "id": "01J69SX1YQTDN4Q8SZ50KF3BZH",
+        "name": "Dropped",
+        "frontImage": "https://content.algstools.com/algs-resizer/RtistQFBTQxPSxHqu3Is.png"
+      },
+      "team": {
+        "id": "01J69RY9XJ0XP4ESCNHNV1F75G",
+        "name": "Envy",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JHTDRM3ECFHXTBFY183KM0M2.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JHTDRM3ECFHXTBFY183KM0M2.png",
+        "teamVersionId": "01J94V42HP6T61TVEVZBAMX56D",
+        "shortName": "ENVY",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z1FPMVFQMEFVXQQ1MY",
       "pickNumber": 27,
       "actualPickNumber": 27,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:00.498Z",
-      "pickedAt": "2025-01-19T21:34:00.498Z",
+      "pickByTime": "2025-01-29T22:53:24.388Z",
+      "pickedAt": "2025-01-29T22:53:24.388Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
+      },
+      "spawnLocation": {
+        "id": "01JH1ES1TX7CCGV474E8G1PBVB",
+        "name": "Blossom Drive",
+        "x": "12",
+        "y": "53",
+        "inGameDropId": 10
+      },
+      "player": {
+        "id": "01JH3WYF858J7XNMGWY10WYRVH",
+        "name": "stressado",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J65B6M350DZ2KK38EXDXSNAY",
+        "name": "Liquid Alienware",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C47XT8KH7K4970NM19KE6H.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C47XT8KH7K4970NM19KE6H.png",
+        "teamVersionId": "01J94V406EV5NR8V1MAD2SQ6FQ",
+        "shortName": "TLAW",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z1MWEJKKKR926JWKEM",
+      "pickNumber": 28,
+      "actualPickNumber": 28,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:27.394Z",
+      "pickedAt": "2025-01-29T22:53:27.394Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -946,47 +981,12 @@
       }
     },
     {
-      "id": "01J96TG4SW216XV2TWJ0TF6WP3",
-      "pickNumber": 28,
-      "actualPickNumber": 28,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:02.999Z",
-      "pickedAt": "2025-01-19T21:34:02.999Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
-      },
-      "spawnLocation": {
-        "id": "01JH1ERG0X1KHWD3KE2ZZ2YBWM",
-        "name": "City Hall",
-        "x": "33",
-        "y": "41",
-        "inGameDropId": 5
-      },
-      "player": {
-        "id": "01J65B7KM7V73BV22NBESZBGZD",
-        "name": "Bronzey",
-        "frontImage": "https://content.algstools.com/algs-resizer/D1t4VeafpNNSU9x2kqi7.png"
-      },
-      "team": {
-        "id": "01J65B7HKE5J6KA49B8BMQVGCV",
-        "name": "100 Thieves",
-        "logoDark": "https://content.algstools.com/algs-resizer/01JE9F26M9SBWWQXBDCVX6N74D.svg",
-        "logoLight": "https://content.algstools.com/algs-resizer/01JE9EZB772MPGNWXD9TXM6C0A.png",
-        "teamVersionId": "01J94V46FC5MWQ1C3Q2J9B3JK7",
-        "shortName": "100T",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SW3RSH9WR2TA1FTWSE",
+      "id": "01J96V41Z1SDVGC072S951M2TA",
       "pickNumber": 29,
       "actualPickNumber": 29,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:05.500Z",
-      "pickedAt": "2025-01-19T21:34:05.500Z",
+      "pickByTime": "2025-01-29T22:53:30.406Z",
+      "pickedAt": "2025-01-29T22:53:30.406Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -994,46 +994,11 @@
         "inGameName": "mp_rr_district"
       },
       "spawnLocation": {
-        "id": "01JH1D9H9538PZJYC0N5GF9959",
-        "name": "Resort",
-        "x": "19",
-        "y": "19",
-        "inGameDropId": 1
-      },
-      "player": {
-        "id": "01J69SWTE7J8KZ5RTYGE1ZRR19",
-        "name": "Nocturnal",
-        "frontImage": "https://content.algstools.com/algs-resizer/cs5k7IqH5s8M6NrJGuDB.png"
-      },
-      "team": {
-        "id": "01J69RY6KDZS60DARK1TCQB1KM",
-        "name": "NRG",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C3MCRKA19CPZX22Z2H84M0.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C3JCZEZ131S2TY6N9YVV2H.png",
-        "teamVersionId": "01J94V3Y3W9GKJYPS38NCTH82Q",
-        "shortName": "NRG",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SWEK99RBZW3SHJGD54",
-      "pickNumber": 30,
-      "actualPickNumber": 30,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:08.003Z",
-      "pickedAt": "2025-01-19T21:34:08.003Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
-      },
-      "spawnLocation": {
-        "id": "01JH1ERPF4DX4Z436P1VQZAY5F",
-        "name": "Galleria",
-        "x": "64",
-        "y": "36",
-        "inGameDropId": 7
+        "id": "01JH1ES8XJ24PY3H54X956922N",
+        "name": "Energy Bank",
+        "x": "53",
+        "y": "42",
+        "inGameDropId": 12
       },
       "player": {
         "id": "01JH3KTKJ630KQSWSSV96VQQRK",
@@ -1051,12 +1016,47 @@
       }
     },
     {
-      "id": "01J96TG4SWP4Z18S4QPTPGBG41",
+      "id": "01J96V41Z1FZZYKR7Z1FT58J8W",
+      "pickNumber": 30,
+      "actualPickNumber": 30,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:33.412Z",
+      "pickedAt": "2025-01-29T22:53:33.412Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4FEKPX9PJJZZ8M6256",
+        "name": "Overlook",
+        "x": "83",
+        "y": "38",
+        "inGameDropId": 22
+      },
+      "player": {
+        "id": "01JH40FD1TDPQJS328AC4FW8TG",
+        "name": "Ends",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J69RXX269YYBYZN90NN79XX9",
+        "name": "DreamFire",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C264Z3AZH5NNESCEG0KDAD.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C264Z3AZH5NNESCEG0KDAD.png",
+        "teamVersionId": "01J94V3VSNGV08AFQRZ3A6R252",
+        "shortName": "DF",
+        "region": "asia-pacific-south"
+      }
+    },
+    {
+      "id": "01J96V41Z13GBSGAY1WAPSEMZ6",
       "pickNumber": 31,
       "actualPickNumber": 31,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:10.504Z",
-      "pickedAt": "2025-01-19T21:34:10.504Z",
+      "pickByTime": "2025-01-29T22:53:36.419Z",
+      "pickedAt": "2025-01-29T22:53:36.419Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -1064,11 +1064,46 @@
         "inGameName": "mp_rr_district"
       },
       "spawnLocation": {
-        "id": "01JH1ESSHTXT5P5PG0DKQPZQDP",
-        "name": "Draft Point",
-        "x": "43",
-        "y": "68",
-        "inGameDropId": 17
+        "id": "01JH1D9H9538PZJYC0N5GF9959",
+        "name": "Resort",
+        "x": "19",
+        "y": "19",
+        "inGameDropId": 1
+      },
+      "player": {
+        "id": "01J6HCTDWKCF3VW1B2WVVPQVPQ",
+        "name": "Jxmo",
+        "frontImage": "https://content.algstools.com/algs-resizer/3ygLlkMdk1TCYDy1RDmy.png"
+      },
+      "team": {
+        "id": "01J65B6B4BX985CZ75J0BPVJSF",
+        "name": "FURIA",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C4PF1A1PK5GG833FKWQ0WD.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C4MMK7TE02ZA38HY3VDQN2.png",
+        "teamVersionId": "01J94V41X351S492KQDQDY8BAA",
+        "shortName": "FUR",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z12G6HD6TPKMN0QCJ3",
+      "pickNumber": 32,
+      "actualPickNumber": 32,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:39.430Z",
+      "pickedAt": "2025-01-29T22:53:39.430Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
+      },
+      "spawnLocation": {
+        "id": "01JH1ERPF4DX4Z436P1VQZAY5F",
+        "name": "Galleria",
+        "x": "64",
+        "y": "36",
+        "inGameDropId": 7
       },
       "player": {
         "id": "01J69STV34HGH20FZPG9VJ6GHF",
@@ -1086,152 +1121,12 @@
       }
     },
     {
-      "id": "01J96TG4SWWAR5QAB6JF326S50",
-      "pickNumber": 32,
-      "actualPickNumber": 32,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:13.006Z",
-      "pickedAt": "2025-01-19T21:34:13.006Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4E78JSA572VR8NT4KZ",
-        "name": "Landslide",
-        "x": "34",
-        "y": "46",
-        "inGameDropId": 5
-      },
-      "player": {
-        "id": "01J69SX0YX2GZWY4XS0MF0CK97",
-        "name": "KSWINNIIE",
-        "frontImage": "https://content.algstools.com/algs-resizer/XYPO97NywhFfVbyjc1ek.png"
-      },
-      "team": {
-        "id": "01J69RY8K5XQYTVVBF6VZZZSX9",
-        "name": "Exo Clan",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C5FSSHQP706092V6A2HP2E.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C5FSSHQP706092V6A2HP2E.png",
-        "teamVersionId": "01J94V43QV8SPE3FMPWZJT7F15",
-        "shortName": "EXO",
-        "region": "europe-middle-east-and-africa"
-      }
-    },
-    {
-      "id": "01J96TG4SWMZYFD4WCCTQBNE2G",
+      "id": "01J96V41Z1ENZF09RCHCKBC2B2",
       "pickNumber": 33,
       "actualPickNumber": 33,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:15.507Z",
-      "pickedAt": "2025-01-19T21:34:15.507Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4F0XD2J7PPET8N3NKT",
-        "name": "Jurassic",
-        "x": "49",
-        "y": "58",
-        "inGameDropId": 22
-      },
-      "player": {
-        "id": "01J65B6102KYWXKACST98VQWN8",
-        "name": "Gnaske",
-        "frontImage": "https://content.algstools.com/algs-resizer/c2i0SQydpLixTFtbjxMx.png"
-      },
-      "team": {
-        "id": "01J65B5ZBN1VFY0YK7PDYPNY0W",
-        "name": "NIP",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J80MXFDK09JJV4DHSTZ10Y68.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J80MWDC03ADFP2WM1KH1Q5SY.png",
-        "teamVersionId": "01J80KXXB8XY18HV28SYT36D1G",
-        "shortName": "NIP",
-        "region": "europe-middle-east-and-africa"
-      }
-    },
-    {
-      "id": "01J96TG4SWVB2HWW4WSXKZFZQ2",
-      "pickNumber": 34,
-      "actualPickNumber": 34,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:18.009Z",
-      "pickedAt": "2025-01-19T21:34:18.009Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
-      },
-      "spawnLocation": {
-        "id": "01JH1ES1TX7CCGV474E8G1PBVB",
-        "name": "Blossom Drive",
-        "x": "12",
-        "y": "53",
-        "inGameDropId": 10
-      },
-      "player": {
-        "id": "01JH40FJ89CJJZX993BFWWJ5QR",
-        "name": "tur0gh-",
-        "frontImage": null
-      },
-      "team": {
-        "id": "01J65B86Z27N1JEFETBAYM4ZBA",
-        "name": "OrglessAndHungry",
-        "logoDark": null,
-        "logoLight": null,
-        "teamVersionId": "01J94V3XMY1FDPHR4DQNEVARFT",
-        "shortName": "OAH",
-        "region": "europe-middle-east-and-africa"
-      }
-    },
-    {
-      "id": "01J96TG4SWQ613BGDT6SW4MF7P",
-      "pickNumber": 35,
-      "actualPickNumber": 35,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:20.510Z",
-      "pickedAt": "2025-01-19T21:34:20.510Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
-      },
-      "spawnLocation": {
-        "id": "01JH1ET3K4DEQZG9K2498DESHJ",
-        "name": "Humbert Labs",
-        "x": "70",
-        "y": "79",
-        "inGameDropId": 20
-      },
-      "player": {
-        "id": "01J65B689R1TD666VV2YTPPRYT",
-        "name": "Wabu",
-        "frontImage": "https://content.algstools.com/algs-resizer/v5cosz38iGNfXj7OM1rn.png"
-      },
-      "team": {
-        "id": "01J65B668CA98R5FMG1C3R8ZBE",
-        "name": "GHS Professional",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C45A8E1X56ZX694209BA8Y.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C45A8E1X56ZX694209BA8Y.png",
-        "teamVersionId": "01J94WDDPY53M98PDT0GFMWNH3",
-        "shortName": "GHS",
-        "region": "asia-pacific-north"
-      }
-    },
-    {
-      "id": "01J96TG4SW36TPG894QZJX6A0T",
-      "pickNumber": 36,
-      "actualPickNumber": 36,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:23.012Z",
-      "pickedAt": "2025-01-19T21:34:23.012Z",
+      "pickByTime": "2025-01-29T22:53:42.439Z",
+      "pickedAt": "2025-01-29T22:53:42.439Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -1246,27 +1141,27 @@
         "inGameDropId": 15
       },
       "player": {
-        "id": "01J69SV99CF98RHK6FH0YN3WAT",
-        "name": "Jacky1",
-        "frontImage": "https://content.algstools.com/algs-resizer/kpkWJ5G6TbZsUCL4DN0f.png"
+        "id": "01J65B87RQ9B7N8GVNGNJDVCN2",
+        "name": "MaTaFe",
+        "frontImage": "https://content.algstools.com/algs-resizer/0FpeW9GYUbrclEkzUOts.png"
       },
       "team": {
-        "id": "01J69RXKX0F0TEAFK43Z508VD9",
-        "name": "shadow3690",
-        "logoDark": "https://content.algstools.com/algs-resizer/01JE9FATBZC1SBJ8SV3AX9RFMC.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01JE9F5Y668RBG8QTWR2J0BNQ5.png",
-        "teamVersionId": "01J94V3SY218BXHZC0QJZY2QBF",
-        "shortName": "SDW",
-        "region": "china"
+        "id": "01J65B86Z27N1JEFETBAYM4ZBA",
+        "name": "OrglessAndHungry",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JJJHJZNBTCX7SXYT3E962MTK.jpg",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JJJHJZNBTCX7SXYT3E962MTK.jpg",
+        "teamVersionId": "01J94V3XMY1FDPHR4DQNEVARFT",
+        "shortName": "OAH",
+        "region": "europe-middle-east-and-africa"
       }
     },
     {
-      "id": "01J96TG4SWBCJTEKMG5Z7WK3PS",
-      "pickNumber": 37,
-      "actualPickNumber": 37,
+      "id": "01J96V41Z1KNTH6C2REVR2R45M",
+      "pickNumber": 34,
+      "actualPickNumber": 34,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:25.513Z",
-      "pickedAt": "2025-01-19T21:34:25.513Z",
+      "pickByTime": "2025-01-29T22:53:45.445Z",
+      "pickedAt": "2025-01-29T22:53:45.445Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -1274,34 +1169,104 @@
         "inGameName": "mp_rr_district"
       },
       "spawnLocation": {
-        "id": "01JH1ESFVF30G1A0X9XT89ABT5",
-        "name": "Stadium",
-        "x": "79",
-        "y": "59",
-        "inGameDropId": 14
+        "id": "01JH1ET3K4DEQZG9K2498DESHJ",
+        "name": "Humbert Labs",
+        "x": "70",
+        "y": "79",
+        "inGameDropId": 20
       },
       "player": {
-        "id": "01J65B8A64FEH85GH6QX3T9Z0K",
-        "name": "Sinetic",
-        "frontImage": "https://content.algstools.com/algs-resizer/UIk8Ev92XWf1mizqbsUt.png"
+        "id": "01J6HCT9K5YP8ZM1E30C3DS1RN",
+        "name": "aWesomeGuy",
+        "frontImage": null
       },
       "team": {
-        "id": "01J65B88ZP0S8F0KT9Y94F42GT",
-        "name": "FaZe Clan",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C41N4HPS926D8ZZDBKHB5J.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C408RX8TY6066QWP5BYGNK.png",
-        "teamVersionId": "01J7SJWAF5WM922N9A501DXKCX",
-        "shortName": "FAZE",
+        "id": "01J69RXJWPWDY4VKBE5X398VCG",
+        "name": "ENTER FORCE.36",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C2WGVY4SWWH2AVXYYV8WCK.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C2WGVY4SWWH2AVXYYV8WCK.png",
+        "teamVersionId": "01J94V3WGP56VJ8TZRYJXEY91A",
+        "shortName": "E36",
+        "region": "asia-pacific-north"
+      }
+    },
+    {
+      "id": "01J96V41Z1GCKSTMPQ6AFVE19K",
+      "pickNumber": 35,
+      "actualPickNumber": 35,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:48.463Z",
+      "pickedAt": "2025-01-29T22:53:48.463Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4FVYFWGG4STHJC6WW0",
+        "name": "Monument",
+        "x": "49",
+        "y": "42",
+        "inGameDropId": 18
+      },
+      "player": {
+        "id": "01JF0QNE4F1CGD8CEWMCHK0437",
+        "name": "SteveZ",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J65B6PH1AV4V33W0QJ097AQJ",
+        "name": "GoNext",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JA8AQQ9J07D22V7XMV8ZXR6C.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JA8AP1YAR0AA3KQM93Q3K8BE.png",
+        "teamVersionId": "01J80KY0M40CDTG4NY5M4AQP7A",
+        "shortName": "GN",
         "region": "europe-middle-east-and-africa"
       }
     },
     {
-      "id": "01J96TG4SW6BMG86PBDHR98NK1",
-      "pickNumber": 38,
-      "actualPickNumber": 38,
+      "id": "01J96V41Z1G1TC3XKZW153JCDW",
+      "pickNumber": 36,
+      "actualPickNumber": 36,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:28.015Z",
-      "pickedAt": "2025-01-19T21:34:28.015Z",
+      "pickByTime": "2025-01-29T22:53:51.465Z",
+      "pickedAt": "2025-01-29T22:53:51.465Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
+      },
+      "spawnLocation": {
+        "id": "01JH1ERAW548AZ0T4CGK0FZPNG",
+        "name": "Boardwalk",
+        "x": "15",
+        "y": "36",
+        "inGameDropId": 4
+      },
+      "player": {
+        "id": "01J65B8QCJY970Y67FHT3BY5VP",
+        "name": "Taida",
+        "frontImage": "https://content.algstools.com/algs-resizer/DcWvRryM1TEppyTtCfRs.png"
+      },
+      "team": {
+        "id": "01J65B668CA98R5FMG1C3R8ZBE",
+        "name": "GHS Professional",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C45A8E1X56ZX694209BA8Y.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C45A8E1X56ZX694209BA8Y.png",
+        "teamVersionId": "01J94WDDPY53M98PDT0GFMWNH3",
+        "shortName": "GHS",
+        "region": "asia-pacific-north"
+      }
+    },
+    {
+      "id": "01J96V41Z13DF3HGRJ6KKPD9P0",
+      "pickNumber": 37,
+      "actualPickNumber": 37,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:54.471Z",
+      "pickedAt": "2025-01-29T22:53:54.471Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -1309,11 +1274,11 @@
         "inGameName": "mp_rr_tropic_island_mu2"
       },
       "spawnLocation": {
-        "id": "01J650EJ4FVVYB8FG3S1FNA1HH",
-        "name": "Command Center",
-        "x": "69",
-        "y": "33",
-        "inGameDropId": 11
+        "id": "01J650EJ4F0XD2J7PPET8N3NKT",
+        "name": "Jurassic",
+        "x": "49",
+        "y": "58",
+        "inGameDropId": 22
       },
       "player": {
         "id": "01J80KMB55FJT5AZH4MFF8BPTS",
@@ -1331,12 +1296,82 @@
       }
     },
     {
-      "id": "01J96TG4SWC966XB8TEZDGXPCY",
+      "id": "01J96V41Z1QMEDQ43KFR87EDRC",
+      "pickNumber": 38,
+      "actualPickNumber": 38,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:53:57.480Z",
+      "pickedAt": "2025-01-29T22:53:57.480Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
+      },
+      "spawnLocation": {
+        "id": "01JH1ESP3D49ND224QSNJVFK19",
+        "name": "Viaduct",
+        "x": "34",
+        "y": "78",
+        "inGameDropId": 16
+      },
+      "player": {
+        "id": "01JH3Y25BWG1PM4Z23B6MJHBR4",
+        "name": "Colo",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J7TXA86T17SJ2M1Q6REM10ZD",
+        "name": "STALLIONS",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JF5ZG2NJD1VXAW7PXK9QKPH8.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JF5ZG2NJD1VXAW7PXK9QKPH8.png",
+        "teamVersionId": "01J7TXA88CZXXP1J7EKAGPXNMX",
+        "shortName": "STAL",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z1ABAYFVNJ5WE5C4CW",
       "pickNumber": 39,
       "actualPickNumber": 39,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:30.516Z",
-      "pickedAt": "2025-01-19T21:34:30.516Z",
+      "pickByTime": "2025-01-29T22:54:00.495Z",
+      "pickedAt": "2025-01-29T22:54:00.495Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4E78JSA572VR8NT4KZ",
+        "name": "Landslide",
+        "x": "34",
+        "y": "46",
+        "inGameDropId": 5
+      },
+      "player": {
+        "id": "01JH3XXFFHNBN6BWPX464TJ9VX",
+        "name": "hannzi",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J80KMBX8KCWAQ2YATWYQYMRD",
+        "name": "Supernova",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JH0QQW18K9AT8PPZ6702H4A0.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JH0QQ77MQFJGBHVABYVZ1FP4.png",
+        "teamVersionId": "01J80KMBZ0H6XT0410Y64FMK3P",
+        "shortName": "SN",
+        "region": "asia-pacific-south"
+      }
+    },
+    {
+      "id": "01J96V41Z1EAV5K4R43J8BENKS",
+      "pickNumber": 40,
+      "actualPickNumber": 40,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:54:03.511Z",
+      "pickedAt": "2025-01-29T22:54:03.511Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -1344,11 +1379,11 @@
         "inGameName": "mp_rr_tropic_island_mu2"
       },
       "spawnLocation": {
-        "id": "01J650EJ4F4JHGSMR6T095N0H5",
-        "name": "Storm Catcher",
-        "x": "76",
-        "y": "37",
-        "inGameDropId": 16
+        "id": "01JH1B75SE07Z20N2KNFJQ1T99",
+        "name": "Checkpoint",
+        "x": "32",
+        "y": "29",
+        "inGameDropId": 1
       },
       "player": {
         "id": "01J7SJWG8C44EAY6KMM54MK3D5",
@@ -1366,82 +1401,47 @@
       }
     },
     {
-      "id": "01J96TG4SWHYEXJTYVAC2NEQ04",
-      "pickNumber": 40,
-      "actualPickNumber": 40,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:33.018Z",
-      "pickedAt": "2025-01-19T21:34:33.018Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
-      },
-      "spawnLocation": {
-        "id": "01JH1ERAW548AZ0T4CGK0FZPNG",
-        "name": "Boardwalk",
-        "x": "15",
-        "y": "36",
-        "inGameDropId": 4
-      },
-      "player": {
-        "id": "01J7TX1Y5KYV5S902MRQWKP2TD",
-        "name": "Blinkzr",
-        "frontImage": null
-      },
-      "team": {
-        "id": "01J7TXA9PPVZ6ZHPDGFCZH08DB",
-        "name": "Oblivion",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J7TZEKN2M0WPE6FTDD7AGE24.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J7TZCVAGT0P2S6H59BE0K376.png",
-        "teamVersionId": "01J7TXA9RG5SCY3EZ428EQHHQ1",
-        "shortName": "OBVN",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SWXPV0WV72FZTQCQXH",
-      "pickNumber": 41,
+      "id": "01J96V41Z1CCAF8GD7253NB13N",
+      "pickNumber": 42,
       "actualPickNumber": 41,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:35.519Z",
-      "pickedAt": "2025-01-19T21:34:35.519Z",
+      "pickByTime": "2025-01-29T22:54:06.514Z",
+      "pickedAt": "2025-01-29T22:54:06.514Z",
       "isActivePick": false,
       "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
       },
       "spawnLocation": {
-        "id": "01JH1ESP3D49ND224QSNJVFK19",
-        "name": "Viaduct",
-        "x": "34",
-        "y": "78",
-        "inGameDropId": 16
+        "id": "01J650EJ4FCAK2M36NYS1DKQZC",
+        "name": "Trident",
+        "x": "39",
+        "y": "22",
+        "inGameDropId": 2
       },
       "player": {
-        "id": "01J6HCTPAB15S5ANZ6EW4W0MX0",
-        "name": "Don",
-        "frontImage": "https://content.algstools.com/algs-resizer/UNi8dZj12j9PtYMR0lAY.png"
+        "id": "01J65B6AQJFP5FPMYHH3MMT39M",
+        "name": "Hakis",
+        "frontImage": "https://content.algstools.com/algs-resizer/K3OM9JFxrWWoPzbO1Wwh.png"
       },
       "team": {
-        "id": "01J65B647VTAK8RPX7HBFP6TQW",
-        "name": "ShopifyRebellion",
-        "logoDark": "https://content.algstools.com/algs-resizer/01JHTFGQ6FX7S0VPMK6MEPFNDJ.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01JHTFFQ1RZ9CBZKV18ZVK818W.png",
-        "teamVersionId": "01J94V3YJYKT7E2EPFKK2J98QT",
-        "shortName": "SR",
-        "region": "north-america"
+        "id": "01J65B68PTHEARN8SM4T62C0SF",
+        "name": "Alliance",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C3WBBAH1JN1KP90271C5CS.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C3WBBAH1JN1KP90271C5CS.png",
+        "teamVersionId": "01J94V460K68VRFHC2GT4CENE7",
+        "shortName": "ALL",
+        "region": "europe-middle-east-and-africa"
       }
     },
     {
-      "id": "01J96TG4SW3GQDC1CGZX0PGB8Z",
-      "pickNumber": 42,
+      "id": "01J96V41Z1SZYATKVZ79K760FY",
+      "pickNumber": 41,
       "actualPickNumber": 42,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:38.021Z",
-      "pickedAt": "2025-01-19T21:34:38.021Z",
+      "pickByTime": "2025-01-29T22:54:09.525Z",
+      "pickedAt": "2025-01-29T22:54:09.525Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
@@ -1471,12 +1471,12 @@
       }
     },
     {
-      "id": "01J96TG4SW963RJRHBYTAHS261",
+      "id": "01J96V41Z15WJHWNS345PX6623",
       "pickNumber": 43,
       "actualPickNumber": 43,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:40.522Z",
-      "pickedAt": "2025-01-19T21:34:40.522Z",
+      "pickByTime": "2025-01-29T22:54:12.535Z",
+      "pickedAt": "2025-01-29T22:54:12.535Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVME92QPVXGJN21ZWCA",
@@ -1484,11 +1484,46 @@
         "inGameName": "mp_rr_tropic_island_mu2"
       },
       "spawnLocation": {
-        "id": "01J650EJ4FCAK2M36NYS1DKQZC",
-        "name": "Trident",
-        "x": "39",
-        "y": "22",
-        "inGameDropId": 2
+        "id": "01J650EJ4F0B6DAZTJ0DQJXDN6",
+        "name": "Devastated Coast",
+        "x": "82",
+        "y": "73",
+        "inGameDropId": 18
+      },
+      "player": {
+        "id": "01J65B6SBZWBJD30CTMFTGC1M1",
+        "name": "obly",
+        "frontImage": "https://content.algstools.com/algs-resizer/ahhlLTi0CrNrkDrBF4q2.png"
+      },
+      "team": {
+        "id": "01J65B6RJ8W5GQ9S8QB8KNPB4V",
+        "name": "CRAZY RACCOON",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J80N0S698GNXANEXEFW2V1JV.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J80N0S698GNXANEXEFW2V1JV.png",
+        "teamVersionId": "01J80KXVM201111CQBMZC908MA",
+        "shortName": "CR",
+        "region": "asia-pacific-north"
+      }
+    },
+    {
+      "id": "01J96V41Z12JTBNTNDXAERV2GV",
+      "pickNumber": 44,
+      "actualPickNumber": 44,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:54:15.547Z",
+      "pickedAt": "2025-01-29T22:54:15.547Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4EQM06VXASHG497ZRB",
+        "name": "Lava Fissure",
+        "x": "17",
+        "y": "40",
+        "inGameDropId": 4
       },
       "player": {
         "id": "01J65B7YX133EJCY2WKCWG472F",
@@ -1506,99 +1541,29 @@
       }
     },
     {
-      "id": "01J96TG4SW4GVQFAABFNB36F3B",
-      "pickNumber": 44,
-      "actualPickNumber": 44,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:43.024Z",
-      "pickedAt": "2025-01-19T21:34:43.024Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4EQM06VXASHG497ZRB",
-        "name": "Lava Fissure",
-        "x": "17",
-        "y": "40",
-        "inGameDropId": 4
-      },
-      "player": {
-        "id": "01J6HCTQBMSJWM403NFDWDFV96",
-        "name": "Talmadge",
-        "frontImage": "https://content.algstools.com/algs-resizer/ktCU08VQPg99TEU9Ivmd.png"
-      },
-      "team": {
-        "id": "01J65B7M110SY7EMAVH3Q4SSSD",
-        "name": "TSM",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C6ZWC08YHWQRR34X448J53.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C6YAM65EVP2334RXA3JVMH.png",
-        "teamVersionId": "01J94V45CWEAH1NGF4MT87FPA5",
-        "shortName": "TSM",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SWSD4VXC4F7D9NQXX5",
+      "id": "01J96V41Z12EVVSEG7HPCF6KC6",
       "pickNumber": 45,
       "actualPickNumber": 45,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:45.525Z",
-      "pickedAt": "2025-01-19T21:34:45.525Z",
+      "pickByTime": "2025-01-29T22:54:18.554Z",
+      "pickedAt": "2025-01-29T22:54:18.554Z",
       "isActivePick": false,
       "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
       },
       "spawnLocation": {
-        "id": "01J650EJ4EXMC92ASKC47V4HBF",
-        "name": "The Tree",
-        "x": "43",
-        "y": "83",
-        "inGameDropId": 10
+        "id": "01J650EJ4FQM10WA2G33CGW8M8",
+        "name": "The Wall",
+        "x": "55",
+        "y": "15",
+        "inGameDropId": 12
       },
       "player": {
-        "id": "01J6HA20NHY79W5VYJ2NZ97D82",
-        "name": "coldjyn",
-        "frontImage": null
-      },
-      "team": {
-        "id": "01J65B6X031C072DB8X3H4TW2P",
-        "name": "Cloud9",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C5ECFD7ZMD4FA70GKHR4YG.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C5ECFD7ZMD4FA70GKHR4YG.png",
-        "teamVersionId": "01J94V434YW62N0N8AFDM682YF",
-        "shortName": "C9",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SWF45V3VPZBMXT9X1P",
-      "pickNumber": 46,
-      "actualPickNumber": 46,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:48.027Z",
-      "pickedAt": "2025-01-19T21:34:48.027Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
-      },
-      "spawnLocation": {
-        "id": "01JH1ESCGC303GWZ087ZPFSN7R",
-        "name": "Settlement",
-        "x": "65",
-        "y": "63",
-        "inGameDropId": 13
-      },
-      "player": {
-        "id": "01J65B79J9D3V006MVBGN77X0Y",
-        "name": "Sweet",
-        "frontImage": "https://content.algstools.com/algs-resizer/WPSsanoefZLarGKZRnKW.png"
+        "id": "01J6HCTHKARG7HCV92YJ3M7D86",
+        "name": "ANDROID",
+        "frontImage": "https://content.algstools.com/algs-resizer/E7sPpNDZkhgS7ZZHilMo.png"
       },
       "team": {
         "id": "01J65B78RPPV8ZG21F46KQAD13",
@@ -1611,12 +1576,47 @@
       }
     },
     {
-      "id": "01J96TG4SWDY3KV0W9ZWJ1Z2FR",
+      "id": "01J96V41Z1SXA057NWZQ8XG27Z",
+      "pickNumber": 46,
+      "actualPickNumber": 46,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:54:21.560Z",
+      "pickedAt": "2025-01-29T22:54:21.560Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4F9HMP8PVKK2Z1NQNP",
+        "name": "Coastal Camp",
+        "x": "52",
+        "y": "84",
+        "inGameDropId": 20
+      },
+      "player": {
+        "id": "01J69SX1YQTDN4Q8SZ50KF3BZH",
+        "name": "Dropped",
+        "frontImage": "https://content.algstools.com/algs-resizer/RtistQFBTQxPSxHqu3Is.png"
+      },
+      "team": {
+        "id": "01J69RY9XJ0XP4ESCNHNV1F75G",
+        "name": "Envy",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JHTDRM3ECFHXTBFY183KM0M2.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JHTDRM3ECFHXTBFY183KM0M2.png",
+        "teamVersionId": "01J94V42HP6T61TVEVZBAMX56D",
+        "shortName": "ENVY",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z20DWAJBHSKZBXTQ5G",
       "pickNumber": 47,
       "actualPickNumber": 47,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:50.528Z",
-      "pickedAt": "2025-01-19T21:34:50.528Z",
+      "pickByTime": "2025-01-29T22:54:24.562Z",
+      "pickedAt": "2025-01-29T22:54:24.562Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
@@ -1624,11 +1624,46 @@
         "inGameName": "mp_rr_desertlands_hu"
       },
       "spawnLocation": {
-        "id": "01J650EJ4EKAACYWBTFWXDEP0A",
-        "name": "Skyhook East",
-        "x": "41",
-        "y": "18",
-        "inGameDropId": 1
+        "id": "01J650EJ4E1M7XHNZKW18THQJ0",
+        "name": "The Dome",
+        "x": "71",
+        "y": "93",
+        "inGameDropId": 13
+      },
+      "player": {
+        "id": "01JH3WYF858J7XNMGWY10WYRVH",
+        "name": "stressado",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J65B6M350DZ2KK38EXDXSNAY",
+        "name": "Liquid Alienware",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C47XT8KH7K4970NM19KE6H.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C47XT8KH7K4970NM19KE6H.png",
+        "teamVersionId": "01J94V406EV5NR8V1MAD2SQ6FQ",
+        "shortName": "TLAW",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z2Q8RDWBEV1KYY75T1",
+      "pickNumber": 48,
+      "actualPickNumber": 48,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:54:27.576Z",
+      "pickedAt": "2025-01-29T22:54:27.576Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4F65HZBD510319PQGH",
+        "name": "Survey Camp",
+        "x": "52",
+        "y": "22",
+        "inGameDropId": 19
       },
       "player": {
         "id": "01J65B8JJMS8Q8HGMTWA749MSW",
@@ -1646,82 +1681,12 @@
       }
     },
     {
-      "id": "01J96TG4SWDQ9RAG67XNMCG71C",
-      "pickNumber": 48,
-      "actualPickNumber": 48,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:53.030Z",
-      "pickedAt": "2025-01-19T21:34:53.030Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4FXH9PH2ZJE3FFXD12",
-        "name": "North Pad",
-        "x": "24",
-        "y": "13",
-        "inGameDropId": 3
-      },
-      "player": {
-        "id": "01J65B7KM7V73BV22NBESZBGZD",
-        "name": "Bronzey",
-        "frontImage": "https://content.algstools.com/algs-resizer/D1t4VeafpNNSU9x2kqi7.png"
-      },
-      "team": {
-        "id": "01J65B7HKE5J6KA49B8BMQVGCV",
-        "name": "100 Thieves",
-        "logoDark": "https://content.algstools.com/algs-resizer/01JE9F26M9SBWWQXBDCVX6N74D.svg",
-        "logoLight": "https://content.algstools.com/algs-resizer/01JE9EZB772MPGNWXD9TXM6C0A.png",
-        "teamVersionId": "01J94V46FC5MWQ1C3Q2J9B3JK7",
-        "shortName": "100T",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SWRM1YSCNXGPMM3EK1",
+      "id": "01J96V41Z20RB8AAKJJMJS62V4",
       "pickNumber": 49,
       "actualPickNumber": 49,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:55.531Z",
-      "pickedAt": "2025-01-19T21:34:55.531Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4F0B6DAZTJ0DQJXDN6",
-        "name": "Devastated Coast",
-        "x": "82",
-        "y": "73",
-        "inGameDropId": 18
-      },
-      "player": {
-        "id": "01J69SWTE7J8KZ5RTYGE1ZRR19",
-        "name": "Nocturnal",
-        "frontImage": "https://content.algstools.com/algs-resizer/cs5k7IqH5s8M6NrJGuDB.png"
-      },
-      "team": {
-        "id": "01J69RY6KDZS60DARK1TCQB1KM",
-        "name": "NRG",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C3MCRKA19CPZX22Z2H84M0.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C3JCZEZ131S2TY6N9YVV2H.png",
-        "teamVersionId": "01J94V3Y3W9GKJYPS38NCTH82Q",
-        "shortName": "NRG",
-        "region": "north-america"
-      }
-    },
-    {
-      "id": "01J96TG4SWC61HZK7S3CCG31F0",
-      "pickNumber": 50,
-      "actualPickNumber": 50,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:34:58.033Z",
-      "pickedAt": "2025-01-19T21:34:58.033Z",
+      "pickByTime": "2025-01-29T22:54:30.590Z",
+      "pickedAt": "2025-01-29T22:54:30.590Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
@@ -1729,11 +1694,11 @@
         "inGameName": "mp_rr_desertlands_hu"
       },
       "spawnLocation": {
-        "id": "01J650EJ4EM47MRPDHDWM2M069",
-        "name": "Countdown",
-        "x": "29",
-        "y": "35",
-        "inGameDropId": 3
+        "id": "01J650EJ4EXMC92ASKC47V4HBF",
+        "name": "The Tree",
+        "x": "43",
+        "y": "83",
+        "inGameDropId": 10
       },
       "player": {
         "id": "01JH3KTKJ630KQSWSSV96VQQRK",
@@ -1751,12 +1716,47 @@
       }
     },
     {
-      "id": "01J96TG4SWS5ZMG0AR02WT3H4E",
+      "id": "01J96V41Z2R684F3KN1CY3DRFX",
+      "pickNumber": 50,
+      "actualPickNumber": 50,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:54:33.593Z",
+      "pickedAt": "2025-01-29T22:54:33.593Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
+      },
+      "spawnLocation": {
+        "id": "01JH1ESCGC303GWZ087ZPFSN7R",
+        "name": "Settlement",
+        "x": "65",
+        "y": "63",
+        "inGameDropId": 13
+      },
+      "player": {
+        "id": "01JH40FD1TDPQJS328AC4FW8TG",
+        "name": "Ends",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J69RXX269YYBYZN90NN79XX9",
+        "name": "DreamFire",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C264Z3AZH5NNESCEG0KDAD.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C264Z3AZH5NNESCEG0KDAD.png",
+        "teamVersionId": "01J94V3VSNGV08AFQRZ3A6R252",
+        "shortName": "DF",
+        "region": "asia-pacific-south"
+      }
+    },
+    {
+      "id": "01J96V41Z2A3Y9B3AJXNPHE35J",
       "pickNumber": 51,
       "actualPickNumber": 51,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:00.535Z",
-      "pickedAt": "2025-01-19T21:35:00.535Z",
+      "pickByTime": "2025-01-29T22:54:36.610Z",
+      "pickedAt": "2025-01-29T22:54:36.610Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
@@ -1764,11 +1764,46 @@
         "inGameName": "mp_rr_desertlands_hu"
       },
       "spawnLocation": {
-        "id": "01J650EJ4E8ER4X2HZ4Y4XN8Y9",
-        "name": "Big Maude",
-        "x": "79",
-        "y": "69",
-        "inGameDropId": 15
+        "id": "01J650EJ4EJNVMFHNK6XH13QS4",
+        "name": "Mirage A Trois",
+        "x": "17",
+        "y": "53",
+        "inGameDropId": 6
+      },
+      "player": {
+        "id": "01J6HCTDWKCF3VW1B2WVVPQVPQ",
+        "name": "Jxmo",
+        "frontImage": "https://content.algstools.com/algs-resizer/3ygLlkMdk1TCYDy1RDmy.png"
+      },
+      "team": {
+        "id": "01J65B6B4BX985CZ75J0BPVJSF",
+        "name": "FURIA",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C4PF1A1PK5GG833FKWQ0WD.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C4MMK7TE02ZA38HY3VDQN2.png",
+        "teamVersionId": "01J94V41X351S492KQDQDY8BAA",
+        "shortName": "FUR",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z286VW9162R6WZBKMC",
+      "pickNumber": 52,
+      "actualPickNumber": 52,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:54:39.626Z",
+      "pickedAt": "2025-01-29T22:54:39.626Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4EM47MRPDHDWM2M069",
+        "name": "Countdown",
+        "x": "29",
+        "y": "35",
+        "inGameDropId": 3
       },
       "player": {
         "id": "01J69STV34HGH20FZPG9VJ6GHF",
@@ -1786,82 +1821,12 @@
       }
     },
     {
-      "id": "01J96TG4SW3FSCD4F0JWRGFAJB",
-      "pickNumber": 52,
-      "actualPickNumber": 52,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:03.036Z",
-      "pickedAt": "2025-01-19T21:35:03.036Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6M00SDXM1G05TA8D96559MJ",
-        "name": "E-District",
-        "inGameName": "mp_rr_district"
-      },
-      "spawnLocation": {
-        "id": "01JH1ERT5GD09YGKES4X0B5M22",
-        "name": "Vibe Isle",
-        "x": "71",
-        "y": "50",
-        "inGameDropId": 8
-      },
-      "player": {
-        "id": "01J69SX0YX2GZWY4XS0MF0CK97",
-        "name": "KSWINNIIE",
-        "frontImage": "https://content.algstools.com/algs-resizer/XYPO97NywhFfVbyjc1ek.png"
-      },
-      "team": {
-        "id": "01J69RY8K5XQYTVVBF6VZZZSX9",
-        "name": "Exo Clan",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C5FSSHQP706092V6A2HP2E.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C5FSSHQP706092V6A2HP2E.png",
-        "teamVersionId": "01J94V43QV8SPE3FMPWZJT7F15",
-        "shortName": "EXO",
-        "region": "europe-middle-east-and-africa"
-      }
-    },
-    {
-      "id": "01J96TG4SWGKP7VWDE3Y17C6C1",
+      "id": "01J96V41Z2BNN7XZEPV20VGMMH",
       "pickNumber": 53,
       "actualPickNumber": 53,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:05.538Z",
-      "pickedAt": "2025-01-19T21:35:05.538Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4F65HZBD510319PQGH",
-        "name": "Survey Camp",
-        "x": "52",
-        "y": "22",
-        "inGameDropId": 19
-      },
-      "player": {
-        "id": "01J65B6102KYWXKACST98VQWN8",
-        "name": "Gnaske",
-        "frontImage": "https://content.algstools.com/algs-resizer/c2i0SQydpLixTFtbjxMx.png"
-      },
-      "team": {
-        "id": "01J65B5ZBN1VFY0YK7PDYPNY0W",
-        "name": "NIP",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J80MXFDK09JJV4DHSTZ10Y68.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J80MWDC03ADFP2WM1KH1Q5SY.png",
-        "teamVersionId": "01J80KXXB8XY18HV28SYT36D1G",
-        "shortName": "NIP",
-        "region": "europe-middle-east-and-africa"
-      }
-    },
-    {
-      "id": "01J96TG4SWGRB2T69WXXKR0M5V",
-      "pickNumber": 54,
-      "actualPickNumber": 54,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:08.039Z",
-      "pickedAt": "2025-01-19T21:35:08.039Z",
+      "pickByTime": "2025-01-29T22:54:42.642Z",
+      "pickedAt": "2025-01-29T22:54:42.642Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
@@ -1876,27 +1841,97 @@
         "inGameDropId": 16
       },
       "player": {
-        "id": "01JH40FJ89CJJZX993BFWWJ5QR",
-        "name": "tur0gh-",
-        "frontImage": null
+        "id": "01J65B87RQ9B7N8GVNGNJDVCN2",
+        "name": "MaTaFe",
+        "frontImage": "https://content.algstools.com/algs-resizer/0FpeW9GYUbrclEkzUOts.png"
       },
       "team": {
         "id": "01J65B86Z27N1JEFETBAYM4ZBA",
         "name": "OrglessAndHungry",
-        "logoDark": null,
-        "logoLight": null,
+        "logoDark": "https://content.algstools.com/algs-resizer/01JJJHJZNBTCX7SXYT3E962MTK.jpg",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JJJHJZNBTCX7SXYT3E962MTK.jpg",
         "teamVersionId": "01J94V3XMY1FDPHR4DQNEVARFT",
         "shortName": "OAH",
         "region": "europe-middle-east-and-africa"
       }
     },
     {
-      "id": "01J96TG4SW89513FBFE87KXD40",
+      "id": "01J96V41Z2WRS3A8DRW0AQ3ETT",
+      "pickNumber": 54,
+      "actualPickNumber": 54,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:54:45.649Z",
+      "pickedAt": "2025-01-29T22:54:45.649Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4E8ER4X2HZ4Y4XN8Y9",
+        "name": "Big Maude",
+        "x": "79",
+        "y": "69",
+        "inGameDropId": 15
+      },
+      "player": {
+        "id": "01J6HCT9K5YP8ZM1E30C3DS1RN",
+        "name": "aWesomeGuy",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J69RXJWPWDY4VKBE5X398VCG",
+        "name": "ENTER FORCE.36",
+        "logoDark": "https://content.algstools.com/algs-resizer/01J6C2WGVY4SWWH2AVXYYV8WCK.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01J6C2WGVY4SWWH2AVXYYV8WCK.png",
+        "teamVersionId": "01J94V3WGP56VJ8TZRYJXEY91A",
+        "shortName": "E36",
+        "region": "asia-pacific-north"
+      }
+    },
+    {
+      "id": "01J96V41Z2R3MWJ76GH6639KRE",
       "pickNumber": 55,
       "actualPickNumber": 55,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:10.540Z",
-      "pickedAt": "2025-01-19T21:35:10.540Z",
+      "pickByTime": "2025-01-29T22:54:48.662Z",
+      "pickedAt": "2025-01-29T22:54:48.662Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVME92QPVXGJN21ZWCA",
+        "name": "Storm Point",
+        "inGameName": "mp_rr_tropic_island_mu2"
+      },
+      "spawnLocation": {
+        "id": "01JH1BH5QAVPHQAJYX858ZRHS6",
+        "name": "Bean",
+        "x": "25",
+        "y": "57",
+        "inGameDropId": 6
+      },
+      "player": {
+        "id": "01JF0QNE4F1CGD8CEWMCHK0437",
+        "name": "SteveZ",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J65B6PH1AV4V33W0QJ097AQJ",
+        "name": "GoNext",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JA8AQQ9J07D22V7XMV8ZXR6C.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JA8AP1YAR0AA3KQM93Q3K8BE.png",
+        "teamVersionId": "01J80KY0M40CDTG4NY5M4AQP7A",
+        "shortName": "GN",
+        "region": "europe-middle-east-and-africa"
+      }
+    },
+    {
+      "id": "01J96V41Z2B1X89600TMSCYJD9",
+      "pickNumber": 56,
+      "actualPickNumber": 56,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:54:51.677Z",
+      "pickedAt": "2025-01-29T22:54:51.677Z",
       "isActivePick": false,
       "map": {
         "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
@@ -1926,82 +1961,12 @@
       }
     },
     {
-      "id": "01J96TG4SWZBGPFBAPWPV48G40",
-      "pickNumber": 56,
-      "actualPickNumber": 56,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:13.042Z",
-      "pickedAt": "2025-01-19T21:35:13.042Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4EZJPAGTKPDTA8E00X",
-        "name": "Staging",
-        "x": "31",
-        "y": "60",
-        "inGameDropId": 7
-      },
-      "player": {
-        "id": "01J69SV99CF98RHK6FH0YN3WAT",
-        "name": "Jacky1",
-        "frontImage": "https://content.algstools.com/algs-resizer/kpkWJ5G6TbZsUCL4DN0f.png"
-      },
-      "team": {
-        "id": "01J69RXKX0F0TEAFK43Z508VD9",
-        "name": "shadow3690",
-        "logoDark": "https://content.algstools.com/algs-resizer/01JE9FATBZC1SBJ8SV3AX9RFMC.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01JE9F5Y668RBG8QTWR2J0BNQ5.png",
-        "teamVersionId": "01J94V3SY218BXHZC0QJZY2QBF",
-        "shortName": "SDW",
-        "region": "china"
-      }
-    },
-    {
-      "id": "01J96TG4SWJ56ZEMRV8CQ78C8F",
+      "id": "01J96V41Z2SW3FNV1M5NVDKJ9Q",
       "pickNumber": 57,
       "actualPickNumber": 57,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:15.543Z",
-      "pickedAt": "2025-01-19T21:35:15.543Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
-        "name": "World's Edge",
-        "inGameName": "mp_rr_desertlands_hu"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4EJNVMFHNK6XH13QS4",
-        "name": "Mirage A Trois",
-        "x": "17",
-        "y": "53",
-        "inGameDropId": 6
-      },
-      "player": {
-        "id": "01J65B8A64FEH85GH6QX3T9Z0K",
-        "name": "Sinetic",
-        "frontImage": "https://content.algstools.com/algs-resizer/UIk8Ev92XWf1mizqbsUt.png"
-      },
-      "team": {
-        "id": "01J65B88ZP0S8F0KT9Y94F42GT",
-        "name": "FaZe Clan",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J6C41N4HPS926D8ZZDBKHB5J.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J6C408RX8TY6066QWP5BYGNK.png",
-        "teamVersionId": "01J7SJWAF5WM922N9A501DXKCX",
-        "shortName": "FAZE",
-        "region": "europe-middle-east-and-africa"
-      }
-    },
-    {
-      "id": "01J96TG4SWKPQNB9GSV4Z8J4DX",
-      "pickNumber": 58,
-      "actualPickNumber": 58,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:18.045Z",
-      "pickedAt": "2025-01-19T21:35:18.045Z",
+      "pickByTime": "2025-01-29T22:54:54.681Z",
+      "pickedAt": "2025-01-29T22:54:54.681Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -2031,12 +1996,82 @@
       }
     },
     {
-      "id": "01J96TG4SW1P4Y9YPKA4JEER6F",
+      "id": "01J96V41Z2E6EZPZZBCTVWT8CG",
+      "pickNumber": 58,
+      "actualPickNumber": 58,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:54:57.690Z",
+      "pickedAt": "2025-01-29T22:54:57.690Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6508ZVM9M8WFR5KVFB6R1FD",
+        "name": "World's Edge",
+        "inGameName": "mp_rr_desertlands_hu"
+      },
+      "spawnLocation": {
+        "id": "01J650EJ4EZJPAGTKPDTA8E00X",
+        "name": "Staging",
+        "x": "31",
+        "y": "60",
+        "inGameDropId": 7
+      },
+      "player": {
+        "id": "01JH3Y25BWG1PM4Z23B6MJHBR4",
+        "name": "Colo",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J7TXA86T17SJ2M1Q6REM10ZD",
+        "name": "STALLIONS",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JF5ZG2NJD1VXAW7PXK9QKPH8.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JF5ZG2NJD1VXAW7PXK9QKPH8.png",
+        "teamVersionId": "01J7TXA88CZXXP1J7EKAGPXNMX",
+        "shortName": "STAL",
+        "region": "north-america"
+      }
+    },
+    {
+      "id": "01J96V41Z2D684BFE64Z049M90",
       "pickNumber": 59,
       "actualPickNumber": 59,
       "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:20.546Z",
-      "pickedAt": "2025-01-19T21:35:20.546Z",
+      "pickByTime": "2025-01-29T22:55:00.695Z",
+      "pickedAt": "2025-01-29T22:55:00.695Z",
+      "isActivePick": false,
+      "map": {
+        "id": "01J6M00SDXM1G05TA8D96559MJ",
+        "name": "E-District",
+        "inGameName": "mp_rr_district"
+      },
+      "spawnLocation": {
+        "id": "01JH1ERT5GD09YGKES4X0B5M22",
+        "name": "Vibe Isle",
+        "x": "71",
+        "y": "50",
+        "inGameDropId": 8
+      },
+      "player": {
+        "id": "01JH3XXFFHNBN6BWPX464TJ9VX",
+        "name": "hannzi",
+        "frontImage": null
+      },
+      "team": {
+        "id": "01J80KMBX8KCWAQ2YATWYQYMRD",
+        "name": "Supernova",
+        "logoDark": "https://content.algstools.com/algs-resizer/01JH0QQW18K9AT8PPZ6702H4A0.png",
+        "logoLight": "https://content.algstools.com/algs-resizer/01JH0QQ77MQFJGBHVABYVZ1FP4.png",
+        "teamVersionId": "01J80KMBZ0H6XT0410Y64FMK3P",
+        "shortName": "SN",
+        "region": "asia-pacific-south"
+      }
+    },
+    {
+      "id": "01J96V41Z2DYHCC6VDEJDKN8ZQ",
+      "pickNumber": 60,
+      "actualPickNumber": 60,
+      "timedOut": false,
+      "pickByTime": "2025-01-29T22:55:03.700Z",
+      "pickedAt": "2025-01-29T22:55:03.701Z",
       "isActivePick": false,
       "map": {
         "id": "01J6M00SDXM1G05TA8D96559MJ",
@@ -2063,41 +2098,6 @@
         "teamVersionId": "01JHTE8YDKWNSZNC95KKTGXFSG",
         "shortName": "Z10",
         "region": "europe-middle-east-and-africa"
-      }
-    },
-    {
-      "id": "01J96TG4SWQZ7ZHVF7NFX1HMNS",
-      "pickNumber": 60,
-      "actualPickNumber": 60,
-      "timedOut": false,
-      "pickByTime": "2025-01-19T21:35:23.048Z",
-      "pickedAt": "2025-01-19T21:35:23.048Z",
-      "isActivePick": false,
-      "map": {
-        "id": "01J6508ZVME92QPVXGJN21ZWCA",
-        "name": "Storm Point",
-        "inGameName": "mp_rr_tropic_island_mu2"
-      },
-      "spawnLocation": {
-        "id": "01J650EJ4F9HMP8PVKK2Z1NQNP",
-        "name": "Coastal Camp",
-        "x": "52",
-        "y": "84",
-        "inGameDropId": 20
-      },
-      "player": {
-        "id": "01J7TX1Y5KYV5S902MRQWKP2TD",
-        "name": "Blinkzr",
-        "frontImage": null
-      },
-      "team": {
-        "id": "01J7TXA9PPVZ6ZHPDGFCZH08DB",
-        "name": "Oblivion",
-        "logoDark": "https://content.algstools.com/algs-resizer/01J7TZEKN2M0WPE6FTDD7AGE24.png",
-        "logoLight": "https://content.algstools.com/algs-resizer/01J7TZCVAGT0P2S6H59BE0K376.png",
-        "teamVersionId": "01J7TXA9RG5SCY3EZ428EQHHQ1",
-        "shortName": "OBVN",
-        "region": "north-america"
       }
     }
   ]
